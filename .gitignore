@@ -1,0 +1,36 @@
+# Maven build directories
+target/
+build/
+
+# Java compiled files
+*.class
+*.jar
+*.war
+*.ear
+
+# IntelliJ IDEA
+.idea/
+*.iml
+out/
+
+# VS Code
+.vscode/
+
+# Gradle (if somehow present)
+.gradle/
+build/
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Firebase / Secret keys / JSON configs
+*.json
+src/main/resources/*.json
+
+# Temporary files
+*.tmp
+*.swp
